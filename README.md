@@ -41,7 +41,6 @@ Conventional statistical and machine learning approaches often struggle to model
 
 4. **Deep Learning Model**  
    - Utilize CNNs, Vision Transformers, or hybrid architectures on spectrogram images.
-   - (Optional) Incorporate numerical indicators alongside the image-based inputs.
 
 5. **Evaluation**  
    - Compare against baseline methods such as ARIMA and LSTM.
